@@ -1,0 +1,25 @@
+h1 span{
+    color: rgb(20, 20, 163);
+} 
+section{
+    display: flex;
+     
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 60%;margin-left: 60px;
+    
+  
+}
+a{  
+    text-decoration: none;
+    background-image: linear-gradient(tomato,red);
+    padding: 5px;
+      
+}
+.h1-aling{
+    text-align: center;
+}
